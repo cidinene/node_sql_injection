@@ -5,7 +5,7 @@
  
  ## Installation 
  ```
- git https://github.com/cidinene/node_sql_injection.git
+ git clone https://github.com/cidinene/node_sql_injection.git
  cd node_sql_injection
  npm ci
  npm start
